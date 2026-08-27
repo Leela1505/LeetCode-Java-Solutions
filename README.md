@@ -11,4 +11,16 @@ My Java solutions and practice for LeetCode data structures and algorithms probl
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
