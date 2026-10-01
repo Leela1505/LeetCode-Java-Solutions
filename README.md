@@ -35,6 +35,7 @@ My Java solutions and practice for LeetCode data structures and algorithms probl
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
