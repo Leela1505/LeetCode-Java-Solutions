@@ -8,6 +8,7 @@ My Java solutions and practice for LeetCode data structures and algorithms probl
 | ------- |
 | [0001-two-sum](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0027-remove-element) |
+| [1480-running-sum-of-1d-array](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +66,8 @@ My Java solutions and practice for LeetCode data structures and algorithms probl
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
