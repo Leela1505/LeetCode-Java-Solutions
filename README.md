@@ -8,6 +8,7 @@ My Java solutions and practice for LeetCode data structures and algorithms probl
 | ------- |
 | [0001-two-sum](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0027-remove-element) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ My Java solutions and practice for LeetCode data structures and algorithms probl
 | ------- |
 | [0002-add-two-numbers](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0009-palindrome-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
