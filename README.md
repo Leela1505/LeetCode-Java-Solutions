@@ -22,6 +22,7 @@ My Java solutions and practice for LeetCode data structures and algorithms probl
 | [0003-longest-substring-without-repeating-characters](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -39,6 +40,7 @@ My Java solutions and practice for LeetCode data structures and algorithms probl
 | ------- |
 | [0002-add-two-numbers](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
@@ -77,4 +79,8 @@ My Java solutions and practice for LeetCode data structures and algorithms probl
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/1672-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
