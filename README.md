@@ -8,6 +8,7 @@ My Java solutions and practice for LeetCode data structures and algorithms probl
 | ------- |
 | [0001-two-sum](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -84,4 +85,8 @@ My Java solutions and practice for LeetCode data structures and algorithms probl
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
