@@ -19,11 +19,13 @@ My Java solutions and practice for LeetCode data structures and algorithms probl
 | ------- |
 | [0001-two-sum](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
@@ -44,6 +46,7 @@ My Java solutions and practice for LeetCode data structures and algorithms probl
 | ------- |
 | [0002-add-two-numbers](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
