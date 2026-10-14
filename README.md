@@ -8,6 +8,7 @@ My Java solutions and practice for LeetCode data structures and algorithms probl
 | ------- |
 | [0001-two-sum](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -58,6 +59,7 @@ My Java solutions and practice for LeetCode data structures and algorithms probl
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
@@ -108,4 +110,8 @@ My Java solutions and practice for LeetCode data structures and algorithms probl
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
