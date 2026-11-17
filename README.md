@@ -46,6 +46,7 @@ My Java solutions and practice for LeetCode data structures and algorithms probl
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Leela1505/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
